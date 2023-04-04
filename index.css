@@ -1,0 +1,23 @@
+.main-sec {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.Head-ing {
+  font-size: 40px;
+  color: #fff;
+  font-family: Roboto;
+  text-align: center;
+  font-weight: 600;
+}
+.button-sec {
+  display: flex;
+}
+.like-btn {
+  padding: 10px;
+  color: #000;
+}
